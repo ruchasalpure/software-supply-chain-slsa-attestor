@@ -1,6 +1,0 @@
-app:
-  name: "software-supply-chain-slsa-attestor"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"
