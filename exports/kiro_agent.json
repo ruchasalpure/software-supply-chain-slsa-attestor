@@ -1,0 +1,5 @@
+{
+  "name": "software-supply-chain-slsa-attestor",
+  "service": "aws-kiro",
+  "version": "1.0.0"
+}

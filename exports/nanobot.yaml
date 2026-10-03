@@ -1,0 +1,4 @@
+spec: nanobot/v1
+name: software-supply-chain-slsa-attestor
+runtime: python3.11
+entrypoint: agent.py
